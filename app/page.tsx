@@ -99,7 +99,7 @@ export default function Home() {
           height="800px"
           name="myIframe"
           style={{ border: 'none' }}
-          src="https://demo.dev.secure.getborderless.com/widgets"
+          src="https://demo.dev.secure.getborderless.com/widgets/add-external-contact"
         />
       </div>
     </main>
